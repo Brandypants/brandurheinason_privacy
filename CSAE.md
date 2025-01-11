@@ -24,7 +24,6 @@ Reports are reviewed promptly, and appropriate actions are taken to maintain the
 ### 3. Addressing Child Sexual Abuse Material (CSAM)
 We actively work to detect, address, and prevent the dissemination of CSAM by:
 
-- Using automated detection tools to identify and block CSAM content.
 - Reporting identified CSAM to appropriate law enforcement agencies and relevant organizations such as the **National Center for Missing and Exploited Children (NCMEC)**.
 
 ### 4. Compliance with Child Safety Laws
