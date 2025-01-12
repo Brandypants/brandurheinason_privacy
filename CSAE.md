@@ -36,7 +36,7 @@ FreshPaws complies with all applicable child safety laws and regulations, includ
 We have designated a point of contact for child safety-related inquiries:
 
 **Child Safety Contact:**  
-Email: **brandurdeveloper@gmail.com**
+Email: **safety@freshpaws.com**
 
 ## Additional Safety Measures
 
@@ -53,4 +53,8 @@ In addition to the above requirements, FreshPaws implements the following:
 
 ## Reporting and Feedback
 
-If you encounter any
+If you encounter any content or activity that violates our child safety standards, please report it immediately through the app or contact us at **safety@freshpaws.com**.
+
+---
+
+FreshPaws is committed to upholding the highest standards of safety and fostering a secure platform for our community. Together, we can create a safe environment for everyone.
