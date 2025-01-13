@@ -17,7 +17,6 @@ We have implemented and enforce the following measures to address and prevent ch
 We provide an in-app reporting feature, allowing users to:
 
 - Report inappropriate behavior or content.
-- Flag profiles or messages that violate our guidelines.
 
 Reports are reviewed promptly, and appropriate actions are taken to maintain the safety of the platform.
 
