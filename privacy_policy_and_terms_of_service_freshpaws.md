@@ -128,3 +128,12 @@ These Terms are governed by and construed in accordance with the laws of Denmark
 ### Contact Us  
 For any legal questions or support:  
 **Email**: brandurdeveloper@gmail.com
+
+---
+
+### Copyright & Legal Disclaimer  
+© 2025 FreshPaws. All rights reserved.
+
+FreshPaws is a platform that connects pet owners with local pet sitters and pet lovers. We do not directly employ or insure users. Users are responsible for their own conduct and arrangements.  
+Use of this service is at your own risk.
+
