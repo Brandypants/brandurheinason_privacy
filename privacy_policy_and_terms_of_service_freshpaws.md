@@ -121,7 +121,7 @@ FreshPaws is not responsible for any harm, loss, or dispute that occurs between 
 ---
 
 ### Governing Law  
-These Terms are governed by and construed in accordance with the laws of the Faroe Islands (or your local jurisdiction if required).
+These Terms are governed by and construed in accordance with the laws of Denmark (or your local jurisdiction if required).
 
 ---
 
