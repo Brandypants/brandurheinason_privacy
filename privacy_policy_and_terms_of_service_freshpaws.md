@@ -157,7 +157,3 @@ For any legal questions or support:
 
 ## Copyright & Legal Disclaimer
 © 2025 FreshPaws. All rights reserved.
-
-FreshPaws is a marketplace platform that connects pet owners with local pet sitters and pet lovers. We do not directly employ or insure users. Users are responsible for their own conduct, arrangements, and outcomes.
-
-Use of this service is at your own risk.
